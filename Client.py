@@ -3,7 +3,7 @@ import socket
 import numpy as np
 import time
 
-TCP_IP = '192.168.0.117' # IP는 개인에 따라 다시 설정할 것
+TCP_IP = '1234.5678.90' # IP는 개인에 따라 다시 설정할 것
 TCP_PORT = 8485
 
 startTime = time.time()  # 현재 시간 저장

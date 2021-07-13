@@ -4,7 +4,7 @@ import numpy as np
 import time
 
 TCP_IP = '1234.5678.90' # IP는 개인에 따라 다시 설정할 것
-TCP_PORT = 8485
+TCP_PORT = 1234 # port번호는 개인에 따라 다시 설정할 것
 
 startTime = time.time()  # 현재 시간 저장
 ## TCP 사용

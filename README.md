@@ -4,8 +4,8 @@
 TCP/IP 통신을 위해서는 server와 client간의 연결할 Ip주소와 포트번호를 알아야 한다.
 
 1. Windows PC를 기준으로 windows + R을 눌러 CMD를 입력한다.
-2. 
-3. CMD에서 ipconfig 명령어를 입력한다.
+
+2. CMD에서 ipconfig 명령어를 입력한다.
 ![image](https://user-images.githubusercontent.com/86957779/129338302-f979fc9f-bea1-4bfe-98f9-89774d6b17c4.png)
 
 3.연결할 ip주소를 확인한다

@@ -9,7 +9,7 @@ TCP/IP 통신을 위해서는 server와 client간의 연결할 Ip주소와 포�
 ![image](https://user-images.githubusercontent.com/86957779/129338302-f979fc9f-bea1-4bfe-98f9-89774d6b17c4.png)
 
 3.연결할 ip주소를 확인한다
-![image](https://user-images.githubusercontent.com/86957779/129338414-bab295af-1cab-4ad5-9da2-56245d2d8604.png)
+![image](https://user-images.githubusercontent.com/86957779/129339081-6b423738-c927-4ead-b1da-36e2b7064448.png)
 
 4. CMD에서 netstat -a를 입력한다.
 

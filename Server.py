@@ -13,7 +13,7 @@ def recvall(sock, count):
         buf += newbuf
         count -= len(newbuf)
     return buf
-HOST = '0.0.0.0'
+HOST = '0.0.0.0' # cmd에서 확인한 IP주소
 PORT = 8485 # port 번호
 
 # 소켓 생성
